@@ -10,4 +10,4 @@ breadboard:Used to connect all components together.
 jumper wires :Used to connect all components together.
 RFID cards:Used to identify different users.
 
-![](../images/Screenshot%2026-04-02%164618.png)
+![](<../images/Screenshot 2026-04-02 231856.png>)
