@@ -1,0 +1,3 @@
+Today we created the project where we worked on Smart Room Automation and real-time climate monitoring system using ESP32 and Blynk IOT.
+
+Where in this project we used an ESP32 microcontroller, DHT11 sensor, relay module, Led indicators and the Blynk IOT platform. The system should begin by connecting ESP32 to a Wi-Fi network and linking it to the Blynk dashboard, where we must create widgets that displays the current room temperatureand humidity values in real time. The dashboard should also include control buttons for two lamps and two fans, alllowing users to remotely switch each device ON and OFF from a smartphone. On the hardware side, each lamp and fan must be connected with a dedicated LED indicator that 
