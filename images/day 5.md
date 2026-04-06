@@ -1,0 +1,1 @@
+![](../images/<Screenshot 2026-04-04 115644.png>){width=200 align=right}
