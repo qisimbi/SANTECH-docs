@@ -27,4 +27,5 @@ Fans turn ON/OFF
 
 * Wi-Fi allows remote monitoring and control, making the system accessible from anywhere on the same network.
 
-![](<../images/Screenshot 2026-04-08 232353.png>)
+![](../images/week%202%20images/Screenshot%202026-04-08%20232353.png)
+
