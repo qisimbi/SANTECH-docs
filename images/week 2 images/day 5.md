@@ -1,0 +1,1 @@
+![](<WhatsApp Image 2026-04-10 at 18.08.07.jpeg>)
