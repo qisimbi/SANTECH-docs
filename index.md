@@ -9,4 +9,4 @@
 
 ## Internship period
  * Starting date: 30/03/2026
- * Ending date: 17/04/2026
+ * Ending date: 24/04/2026
