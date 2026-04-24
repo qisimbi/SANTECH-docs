@@ -4,8 +4,6 @@
 ## Group members
 * Isimbi Queen
 * Uwimana Esther
-* Byiringiro Lahay Roy
-* Cyubahiro Arnauld
 
 ## Internship period
  * Starting date: 30/03/2026
